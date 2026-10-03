@@ -2,6 +2,16 @@
 
 ComVoice is a starter Retrieval-Augmented Generation (RAG) chatbot for legal/council documents.
 
+<p align="center">
+  <img src="assets/comvoice_banner.png" alt="ComVoice Banner" width="900">
+</p>
+
+# ComVoice
+
+**An AI voice agent for community engagement and public education**
+
+ComVoice is an evidence-first Retrieval-Augmented Generation (RAG) system designed to make complex legal, planning and council documents easier for communities to understand.
+
 ## Features
 - Upload PDF, DOCX, or TXT
 - Page-aware PDF extraction
